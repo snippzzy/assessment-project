@@ -53,5 +53,3 @@ AWS CLI - Command-line tool for AWS
 CloudFormation - Infrastrcuture as code
 Ansible - Configuration management tool
 Prometheus - Monitoring tool
-License
-License
